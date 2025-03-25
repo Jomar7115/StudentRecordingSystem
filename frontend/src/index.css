@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://scontent.fmnl40-2.fna.fbcdn.net/v/t39.30808-1/423674964_6858844540890780_239946187337273153_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGROC9-WqvU48PAkRSQPEl4IEAwzNLhFmwgQDDM0uEWbATtZlzj8odDS3UhoLYmcxn9_JQSvBniovAlhRHrXi93&_nc_ohc=qcEdRqmj_nYQ7kNvgGGDi0D&_nc_oc=Adm6ShswCe-tqkXcSImuefQfo5AxGnz9xbnwZwkbNS6hAJdZf-NB2qXikK9N_ombQvs&_nc_zt=24&_nc_ht=scontent.fmnl40-2.fna&_nc_gid=aOXQjQYJyzqSI37sXVuWfQ&oh=00_AYFKQkvKB2IeXZKFvxaULdUDx8Ch8JO1hMslqlGNvAkGNg&oe=67E893C5");
+  background-image: -o-repeating-linear-gradient("https://scontent.fmnl40-2.fna.fbcdn.net/v/t39.30808-1/423674964_6858844540890780_239946187337273153_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGROC9-WqvU48PAkRSQPEl4IEAwzNLhFmwgQDDM0uEWbATtZlzj8odDS3UhoLYmcxn9_JQSvBniovAlhRHrXi93&_nc_ohc=qcEdRqmj_nYQ7kNvgGGDi0D&_nc_oc=Adm6ShswCe-tqkXcSImuefQfo5AxGnz9xbnwZwkbNS6hAJdZf-NB2qXikK9N_ombQvs&_nc_zt=24&_nc_ht=scontent.fmnl40-2.fna&_nc_gid=aOXQjQYJyzqSI37sXVuWfQ&oh=00_AYFKQkvKB2IeXZKFvxaULdUDx8Ch8JO1hMslqlGNvAkGNg&oe=67E893C5");
+  text-align: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+h1 {
+  text-transform: uppercase;
+  color: #ffffff;
+}
+h2 {
+  text-transform: uppercase;
+  color: #90daec;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
